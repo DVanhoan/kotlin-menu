@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Trang chủ" />
+        <item
+            android:id="@+id/nav_about"
+            android:title="Giới thiệu" />
+        <item
+            android:id="@+id/nav_settings"
+            android:title="Cài đặt" />
+    </group>
+</menu>

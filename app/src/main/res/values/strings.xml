@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">danh sách sinh viên</string>
+    <string name="appname">Danh sách sinh viên</string>
+    <string name="student_name">Student Name</string>
+    <string name="_84">84+</string>
+    <string name="todo">TODO</string>
+</resources>
